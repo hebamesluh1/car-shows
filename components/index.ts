@@ -17,5 +17,5 @@ export {
     SearchBar,
     SearchMenufacturer,
     CarCard,
-    CarDetails
+    CarDetails,
 }
